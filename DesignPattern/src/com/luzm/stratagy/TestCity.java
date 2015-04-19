@@ -1,4 +1,4 @@
-package com.luzm.stratage;
+package com.luzm.stratagy;
 
 public abstract class TestCity {
 	private TestPaper testPaper;

@@ -1,4 +1,4 @@
-package com.luzm.stratage;
+package com.luzm.stratagy;
 
 public interface TestPaper {
 	/**
